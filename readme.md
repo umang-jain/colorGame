@@ -1,1 +1,1 @@
-https://devcenter.heroku.com/articles/heroku-cli
+https://getcoloegame.herokuapp.com/
